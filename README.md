@@ -10,6 +10,6 @@ Welcome to my GitHub profile! I am a computer engineering student with a great i
       src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" width="100"/></a>
    <a href="https://www.instagram.com/maxvolynets14/">
       <img alt="instagram" title="Follow me on my Instagram"
-      src="https://i.pinimg.com/originals/94/40/9a/94409a775c02d7658dd6e7ba88429b63.png" width="100"/></a>
+      src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-logo-PNG.png" width="100"/></a>
 </p>
 
