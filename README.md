@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff88&height=120&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00FF88&center=true&vCenter=true&width=750&lines=AI+%26+CS+Master%27s+%40+FCT+NOVA;Researching+Cultural+Cognition+in+LLMs;Full-Stack+%7C+DevOps+%7C+AI+Engineer;Python+%7C+PyTorch+%7C+GCP+%7C+NestJS;Building+Portugal%27s+AI+future+%E2%86%92+AMALIA+LLM" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00FF88&center=true&vCenter=true&width=750&lines=AI+%26+CS+Master%27s+%40+NOVA+SST;Researching+Cultural+Cognition+in+LLMs;AI+Engineer+%7C+Full-Stack+%7C+DevOps;Python+%7C+PyTorch+%7C+GCP+%7C+Next.JS" alt="Typing SVG" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## About
 
-Master's student in AI & Computer Science at **FCT NOVA**, Lisbon.
+Master's student in AI & Computer Science at **NOVA SST**, Lisbon.
 I build things end-to-end — from LLM research to production infrastructure.
 Currently researching **Cultural Cognition in LLMs**, with results targeting integration into **AMALIA**, Portugal's National Language Model.
 
@@ -24,7 +24,7 @@ Currently researching **Cultural Cognition in LLMs**, with results targeting int
 
 ## Research
 
-**Cultural Cognition in Large Language Models** · FCT NOVA · 2025 – Present
+**Cultural Cognition in Large Language Models** · NOVA SST · 2025 – Present
 
 Engineering culture-aware evaluation frameworks to enrich LLMs with localized knowledge and contextual reasoning. Results planned for integration into AMALIA - Portugal's sovereign National Language Model.
 
