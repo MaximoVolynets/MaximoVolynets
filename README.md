@@ -1,25 +1,135 @@
-# 🗺️ Máximo Volynets
+<div align="center">
 
-**`Computer Science and Engineering Student`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff88&height=120&section=header&animation=fadeIn" width="100%"/>
 
-Welcome to my GitHub profile! I am a computer science and engineering student with a great interest in exploring innovative solutions and facing technological challenges. My main goal is to build a dynamic career and contribute to an innovative future. I really enjoy learning new things in this area and I am willing to work on projects and solve problems. I look forward to sharing and collaborating on exciting projects in this space!
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00FF88&center=true&vCenter=true&width=750&lines=AI+%26+CS+Master%27s+%40+NOVA+SST;Researching+Cultural+Cognition+in+LLMs;Full-Stack+%7C+DevOps+%7C+AI+Engineer;Python+%7C+PyTorch+%7C+GCP+%7C+NestJS" alt="Typing SVG" />
 
-<p align="left">  
-   <a href="https://www.linkedin.com/in/m%C3%A1ximo-volynets-437273261" target="_blank">
-      <img alt="linkedIn" title="Follow me on my LinkedIn"
-      src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" width="75"/></a>
-   <a href="https://www.instagram.com/maxvolynets14/">
-      <img alt="instagram" title="Follow me on my Instagram"
-      src="https://img.freepik.com/premium-vector/instagram-vector-social-media-icon-instagram-logo-illustration_153454-578.jpg" width="75"/></a>
-</p>
+<br/>
+
+``` [![Portfolio](https://img.shields.io/badge/maximovolynets.com-000000?style=for-the-badge&logo=safari&logoColor=00ff88)](https://maximovolynets.com) ``` 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MaximoVolynets)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaximoVolynets)
+[![Email](https://img.shields.io/badge/maxvolynets2%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:maxvolynets2@gmail.com)
+
+</div>
 
 ---
-### 📚 Languages
 
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Html" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="Css" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="MySql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<div align="center">
 
+```python
+class MaximoVolynets:
+
+    def __init__(self):
+        self.role       = "Master's Student in AI & Computer Science"
+        self.university = "NOVA SST | Lisbon, Portugal"
+        self.thesis     = "Cultural Cognition in LLMs"
+        self.target     = "AMALIA — Portugal's National Language Model"
+        self.languages  = ["Portuguese (Native)", "English (Fluent)",
+                           "Russian (Fluent)", "Spanish (Conversational)"]
+
+    def current_mission(self):
+        return """
+          Bridging AI research and production engineering.
+          Engineering culture-aware LLM evaluation tasks
+          and integrating them into real-world NLP systems.
+        """
+
+    def stack(self):
+        return {
+            "AI/ML"    : ["PyTorch", "TensorFlow", "RAG", "NLP", "LLMs"],
+            "Backend"  : ["Python", "NestJS", "Node.js", "TypeScript", "Java"],
+            "Frontend" : ["React", "Next.js", "HTML", "CSS"],
+            "Data"     : ["Pandas", "NumPy", "SQL", "Data Engineering"],
+            "Cloud"    : ["GCP", "AWS", "Docker", "Cloudflare", "CI/CD"],
+        }
+```
+
+</div>
+
+---
+
+## `// RESEARCH`
+
+```
++----------------------------------------------------------------------+
+|  THESIS  >  Cultural Cognition in Large Language Models              |
+|  LAB     >  FCT NOVA - AI Research & Development                    |
+|  STATUS  >  ############........  Active - 2025 to Present          |
+|                                                                      |
+|  Designing culture-aware evaluation frameworks to enrich LLMs        |
+|  with localized knowledge and contextual reasoning.                  |
+|  Results targeted for integration into AMALIA -- Portugal's          |
+|  sovereign National Language Model.                                  |
++----------------------------------------------------------------------+
+```
+
+---
+
+## `// TECH STACK`
+
+<div align="center">
+
+**AI & Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Engineering & Full-Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Cloud, DevOps & Data**
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## `// STATS`
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaximoVolynets&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximoVolynets&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximoVolynets&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## `// CERTIFICATIONS`
+
+```
+[x] Samsung AI Course                                   Feb 2026
+```
+
+---
+
+<div align="center">
+
+```
++==============================================================+
+|  OPEN TO : Research Collabs | Engineering Roles | Projects   |
+|  LOCATION: Lisbon, Portugal -- Remote Friendly               |
+|  CONTACT : maxvolynets2@gmail.com                            |
++==============================================================+
+```
+
+![Visitors](https://komarev.com/ghpvc/?username=MaximoVolynets&color=00ff88&style=flat-square&label=profile+views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
